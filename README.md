@@ -60,4 +60,3 @@ React, Bootstrap, TMDB API
 
 ![image](https://github.com/Ayomide0123/HNG_Stage-Two/blob/main/src/assets/screenshot/search.png)
 
-Live Demo: https://bumblebeestage2.netlify.app/
